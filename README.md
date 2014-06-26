@@ -1,3 +1,3 @@
-# Polymer Starter Project
+# Polymer
 
 Start app using $ python -m SimpleHTTPServer
